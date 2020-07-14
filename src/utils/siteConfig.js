@@ -1,5 +1,5 @@
 module.exports = {
-    siteUrl: ``, // Site domain. Do not include a trailing slash!
+    siteUrl: `https://jovial-joliot-0ce48c.netlify.app`, // Site domain. Do not include a trailing slash!
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
